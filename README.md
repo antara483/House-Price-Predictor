@@ -58,9 +58,4 @@ Ever wondered how much a house is really worth? This project is my attempt to **
 - Residuals are mostly centered around zero — nice fit!  
 - This model gives a reasonable estimate of house prices, and can be extended with more features or complex models for better accuracy.  
 
----
-
-
-
-- SciPy – Statistical analysis
 
