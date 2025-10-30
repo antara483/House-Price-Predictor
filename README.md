@@ -2,6 +2,18 @@
 
 Ever wondered how much a house is really worth? This project is my attempt to **predict house prices** using machine learning, based on features like area, number of bedrooms/bathrooms, stories, amenities, and furnishing status. Along the way, I explored the data, engineered new features, and built a **Multiple Linear Regression model** to estimate prices with decent accuracy.  
 
+Here’s how the Actual Vs Predicted Prices looks:
+
+![Confusion Matrix](images/Screenshot%201.png)
+
+Here’s the Residuals Vs Predicted Values:
+
+![Accuracy Score](images/Screenshot%202.png)
+
+And the QQ Plot of Residuals:
+
+![Accuracy Score](images/Screenshot%203.png)
+
 ---
 Dataset[https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction]
 
